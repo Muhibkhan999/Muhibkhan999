@@ -33,8 +33,9 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Muhib's GitHub Stats" width="400px"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" width="400px"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhib123&show_icons=true&theme=radical" alt="Muhib's GitHub Stats" width="400px"/>  
+  <img src="https://streak-stats.demolab.com?user=Muhib123&theme=radical&hide_border=true" alt="Muhib's GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhib123&layout=compact&theme=radical" alt="Top Languages" width="400px"/>  
 </p>
 
 ---
@@ -42,22 +43,22 @@
 ## 🌟 Achievements & Badges  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhib123&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophy">
 </p>
 
 ---
 
 ## 📂 Featured Projects  
 
-### **[🎓 Student Portal](https://github.com/yourusername/student-portal)**  
+### **[🎓 Student Portal](https://github.com/Muhib123/student-portal)**  
 An intuitive platform for managing assignments, tracking grades, and collaborating with classmates.  
 **Tech Stack:** HTML, CSS, JavaScript, Node.js, MongoDB
 
-### **[❓ Interactive Quiz App](https://github.com/yourusername/quiz-app)**  
+### **[❓ Interactive Quiz App](https://github.com/Muhib123/quiz-app)**  
 A dynamic quiz app designed to adapt to user responses, offering a fun and engaging way to test knowledge.  
 **Tech Stack:** React, Firebase, JavaScript
 
-### **[🌦 AI-powered Weather App](https://github.com/yourusername/weather-app)**  
+### **[🌦 AI-powered Weather App](https://github.com/Muhib123/weather-app)**  
 An AI-powered weather app that predicts trends based on historical data.  
 **Tech Stack:** Python, Flask, Machine Learning
 
@@ -66,16 +67,16 @@ An AI-powered weather app that predicts trends based on historical data.
 ## 🌐 Let's Connect  
 
 <p align="center">
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/Muhib123" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="GitHub" style="border-radius: 12px;"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/Muhib123" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" alt="LinkedIn" style="border-radius: 12px;"/>
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
+  <a href="https://twitter.com/Muhib123" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=005c98" alt="Twitter" style="border-radius: 12px;"/>
   </a>
-  <a href="https://www.instagram.com/yourusername" target="_blank">
+  <a href="https://www.instagram.com/Muhib123" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=9a235b" alt="Instagram" style="border-radius: 12px;"/>
   </a>
 </p>
@@ -84,4 +85,4 @@ An AI-powered weather app that predicts trends based on historical data.
 ---
 
 ## 🚀 Let's Build the Future Together!  
-I am always open to collaborations, challenges, and innovative projects. If you have an idea, let's connect and create something amazing!  
+I am always open to collaborations, challenges, and innovative projects. If you have an idea, let's connect and create something amazing!
