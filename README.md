@@ -34,7 +34,7 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Muhib's GitHub Stats" width="400px"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak Stats" width="400px"/>
+  <img src="https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true" alt="Muhib's GitHub Streak Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" width="400px"/>  
 </p>
 
@@ -68,18 +68,19 @@ An AI-powered weather app that predicts trends based on historical data.
 
 <p align="center">
   <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="GitHub" style="border-radius: 12px;"/>
   </a>
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" alt="LinkedIn" style="border-radius: 12px;"/>
   </a>
   <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=005c98" alt="Twitter" style="border-radius: 12px;"/>
   </a>
   <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=9a235b" alt="Instagram" style="border-radius: 12px;"/>
   </a>
 </p>
+
 
 ---
 
