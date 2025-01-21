@@ -1,7 +1,7 @@
 # Hi there, I'm **Muhib**! 👋  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Tech Animation" width="600"/>
+  <img src="[https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif](https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif)" alt="Tech Animation" width="600"/>
 </p>
 
 ---
