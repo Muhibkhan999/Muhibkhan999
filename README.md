@@ -92,4 +92,3 @@ An AI-powered weather app that not only displays forecasts but predicts trends b
 
 ## 🚀 Let's Build the Future Together!  
 I am always open to new challenges, collaborations, and learning experiences. If you have an idea or project in mind, don't hesitate to reach out!
-
