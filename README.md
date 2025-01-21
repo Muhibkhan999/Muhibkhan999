@@ -34,7 +34,6 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Muhib's GitHub Stats" width="400px"/>  
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true" alt="Muhib's GitHub Streak Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" width="400px"/>  
 </p>
 
