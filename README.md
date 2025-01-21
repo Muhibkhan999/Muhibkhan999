@@ -1,7 +1,7 @@
 # Hello, I'm **Muhib**! 👋
 
 <p align="center">
-  <img id="wave-hand" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Tech Animation" width="600"/>
+  <img src="https://camo.githubusercontent.com/2745488d74c30cc3c170c169a329511474f7e6388969bfcb7123fda4107c4bc3/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f6c696e65733d4d45524e2b537461636b2b446576656c6f7065723b4a6176615363726970742b7c2b4e6f64654a532b7c2b46697265626173652b7c2b466c75747465723b4c6561726e696e672b507974686f6e2663656e7465723d747275652677696474683d353030266865696768743d3530" alt="Tech Animation" width="600"/>
 </p>
 
 ---
@@ -12,37 +12,6 @@
 ✨ **Fun Fact:** I am fascinated by blending creativity with technology to design interactive and futuristic projects.  
 
 ---
-
-<style>
-  #wave-hand {
-    animation: wave 1.5s ease-in-out infinite;
-  }
-
-  @keyframes wave {
-    0% {
-      transform: rotate(0deg);
-    }
-    25% {
-      transform: rotate(-15deg);
-    }
-    50% {
-      transform: rotate(0deg);
-    }
-    75% {
-      transform: rotate(15deg);
-    }
-    100% {
-      transform: rotate(0deg);
-    }
-  }
-</style>
-
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/2745488d74c30cc3c170c169a329511474f7e6388969bfcb7123fda4107c4bc3/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f6c696e65733d4d45524e2b537461636b2b446576656c6f7065723b4a6176615363726970742b7c2b4e6f64654a532b7c2b46697265626173652b7c2b466c75747465723b4c6561726e696e672b507974686f6e2663656e7465723d747275652677696474683d353030266865696768743d3530" alt="Tech Animation" width="600"/>
-</p>
-
-
 
 ## 🛠️ Tech Stack & Skills  
 ### **Languages I Speak:**  
