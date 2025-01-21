@@ -71,24 +71,5 @@ An AI-powered weather app that not only displays forecasts but predicts trends b
 
 ---
 
-## 🌀 Cool HTML Animation  
-<p align="center">
-  <span style="color: #4caf50; font-size: 24px; animation: typing 3s steps(40, end), blink 0.5s step-end infinite;">
-    Welcome to My GitHub Profile!
-  </span>
-</p>
-
-<style>
-  @keyframes typing {
-    from { width: 0; }
-    to { width: 100%; }
-  }
-  @keyframes blink {
-    50% { border-color: transparent; }
-  }
-</style>
-
----
-
 ## 🚀 Let's Build the Future Together!  
 I am always open to new challenges, collaborations, and learning experiences. If you have an idea or project in mind, don't hesitate to reach out!
