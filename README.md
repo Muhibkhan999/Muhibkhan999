@@ -1,29 +1,33 @@
-# Hi there, I'm Muhib! 👋  
+# Hi there, I'm **Muhib**! 👋  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Welcome Animation" width="600"/>
+</p>
+
+---
 
 ## 🚀 About Me  
-- 🌐 **Aspiring Full-Stack Developer**  
-- 🌱 Currently learning advanced **web development** and **Python scripting**  
-- 🎯 Passionate about **coding**, **AI tools**, and **responsive design**  
-- ⚡ Fun Fact: I love experimenting with new technologies  
+🌐 **Aspiring Full-Stack Developer**  
+🌱 Currently learning **web development** and **Python scripting**  
+🎯 Passionate about **coding**, **AI tools**, and **responsive design**  
+⚡ *Fun Fact*: I love experimenting with new technologies!  
 
 ---
 
 ## 🛠️ Skills  
-- **Languages**:  
-  ![HTML](https://img.shields.io/badge/-HTML-orange) 
-  ![CSS](https://img.shields.io/badge/-CSS-blue) 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) 
-  ![Python](https://img.shields.io/badge/-Python-green)  
-
-- **Tools & Frameworks**:  
-  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-blue) 
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple)  
+### **Languages I Speak:**  
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-green?style=flat&logo=python&logoColor=white)  
 
 ---
 
 ## 📊 GitHub Stats  
-![Muhib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Muhib's GitHub Stats" width="400px"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" width="400px"/>  
+</p>
 
 ---
 
@@ -36,7 +40,32 @@
 
 ---
 
-## 📫 Connect with Me  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
+---
+
+## 🎨 SVG Animation Example  
+<p align="center">
+  <img src="https://your-custom-svg-animation-link.svg" alt="SVG Animation" width="500"/>
+</p>
+
+---
+
+## 🌀 Cool Animation with HTML  
+<p align="center">
+  <span style="color: #00ff00; font-size: 24px; animation: blink 1s infinite;">✨ Welcome to My Profile ✨</span>
+</p>
+
+<style>
+  @keyframes blink {
+    50% { opacity: 0; }
+  }
+</style>
