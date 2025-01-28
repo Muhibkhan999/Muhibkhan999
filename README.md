@@ -34,6 +34,7 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Muhib's GitHub Stats" width="400px"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" width="400px"/>
 </p>
 
 ---
@@ -79,8 +80,7 @@ An AI-powered weather app that predicts trends based on historical data.
   </a>
 </p>
 
-
 ---
 
 ## 🚀 Let's Build the Future Together!  
-I am always open to collaborations, challenges, and innovative projects. If you have an idea, let's connect and create something amazing!  
+I am always open to collaborations, challenges, and innovative projects. If you have an idea, let's connect and create something amazing!
