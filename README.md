@@ -43,10 +43,26 @@
   <img src="https://img.icons8.com/stickers/2x/css3.png" alt="CSS" height="40" style="vertical-align:top; margin:4px" title="CSS">
 </p>
 
-### Achievements:
+<h2 align="center">🎉 Achievements:</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhib-khan&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophy">
+  <!-- GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhibkhan999&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophy">
+</p>
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhibkhan999&show_icons=true&count_private=true&hide=prs&theme=radical&hide_border=true" alt="Muhib's GitHub Stats">
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhibkhan999&theme=radical&hide_border=true&layout=compact" alt="Muhib's Top Languages">
+</p>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhibkhan999&theme=radical&hide_border=true" alt="Muhib's GitHub Streak">
 </p>
 
 ### GitHub Stats:
