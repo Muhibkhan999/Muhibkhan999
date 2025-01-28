@@ -11,19 +11,19 @@
 ### Find me on:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhib-ali" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/muhib-khan" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px">
   </a>
   <a href="mailto:muhib920@gmail.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://www.facebook.com/muhib.ali.official" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.facebook.com/muhib.khan.official" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="40" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://twitter.com/muhib_ali" target="_blank" rel="noopener noreferrer">
+  <a href="https://twitter.com/muhib_khan" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height="40" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://github.com/muhib-ali" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/muhib-khan" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
   </a>
 </p>
@@ -46,15 +46,16 @@
 ### Achievements:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhib-ali&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhib-khan&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophy">
 </p>
 
 ### GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhib-ali&show_icons=true&count_private=true&hide=prs&theme=radical&hide_border=true" alt="Muhib's GitHub Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashrib&theme=radical" alt="GitHub Contribution Graph">
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhib-ali&theme=radical&hide_border=true&layout=compact" alt="Muhib's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhib-khan&theme=radical&hide_border=true&layout=compact" alt="Muhib's Top Languages">
 </p>
