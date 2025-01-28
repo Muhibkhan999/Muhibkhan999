@@ -51,6 +51,6 @@
 
 ## Contribution Graph:
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Ashrib&theme=radical&hide_border=true" alt="GitHub Contribution Graph">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Ashrib&theme=radical&hide_border=true" alt="GitHub Contribution Graph">
 </p>
 
