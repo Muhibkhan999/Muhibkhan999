@@ -60,10 +60,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhibkhan999&theme=radical&hide_border=true&layout=compact" alt="Muhib's Top Languages">
 </p>
 
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhibkhan999&theme=radical&hide_border=true" alt="Muhib's GitHub Streak">
-</p>
+
 
 ### GitHub Stats:
 
