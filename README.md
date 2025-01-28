@@ -13,8 +13,8 @@
 - ## Find me on:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/asharib-ali-581a46243/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
-  <a href="mailto:asharib920@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.linkedin.com/in/Muhib-Khan-581a46243/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="mailto:muhibkhan2410@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.facebook.com/profile.php?id=100008474139253"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="45" style="vertical-align:top; margin:4px"></a>
 </p>
 <br />
@@ -44,17 +44,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashrib&theme=radical&layout=compact&hide_title=true" alt="Top Languages" width="48%" height="200px">
 </p>
 
-## GitHub Streak:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ashrib&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhibKhan999&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophy">
 </p>
+
 
 
 
 
 ## Contribution Graph:
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashrib&theme=radical" alt="GitHub Contribution Graph">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhibkhan999&theme=radical" alt="GitHub Contribution Graph">
 </p>
 
 
