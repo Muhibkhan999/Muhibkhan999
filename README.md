@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Muhib Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<center><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;JavaScript+|+NodeJS+|+Firebase+|+Flutter;Learning+Python&center=true&width=500&height=50" width="100%"></center>
+<center><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;JavaScript+||+HTML|+Firebase;Learning+Python&center=true&width=500&height=50" width="100%"></center>
 
 <h2 align="center"><img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="50px" height="50px">About Me:</h2>
 
-<p align="center">I am a passionate MERN stack developer, focused on creating innovative web applications. I love solving complex problems and building user-friendly websites. I'm proficient in JavaScript, React, Node.js, and excited about learning Flutter. 🚀</p>
+<p align="center">I am a passionate Developer, focused on creating innovative web applications. I love solving complex problems and building user-friendly websites. I'm proficient in JavaScript, Html5, CSS3, and excited about learning Python. 🚀</p>
 
-<p align="center">Currently learning <strong>Flutter</strong> and improving my <strong>Python</strong> skills!</p>
+<p align="center">Currently learning <strong>Python</strong> and improving my <strong>Javascript</strong> skills!</p>
 
 ### Find me on:
 
@@ -65,7 +65,7 @@
 ### GitHub Stats:
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashrib&theme=radical" alt="GitHub Contribution Graph">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhibkhan999&theme=radical" alt="GitHub Contribution Graph">
 </p>
 
 
